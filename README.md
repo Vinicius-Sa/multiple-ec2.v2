@@ -1,2 +1,2 @@
-# multiple-ec2.v2
-The second improved version of the module for deployment of multiple AWS EC2 instances with metadata scripts
+# Multiple deployment of AWS EC2 instance with metada script
+## This module is part of a Dissaster recovery project with multiple modules. This is a improved version using `Terragrunt` and optimized file structure.
